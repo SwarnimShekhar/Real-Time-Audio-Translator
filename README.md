@@ -15,6 +15,9 @@ https://github.com/user-attachments/assets/09cee555-f7ce-4776-b222-8351a95ac0f6
 
 4. **GUI Interface**: A user-friendly interface built with Tkinter for language selection, real-time audio processing, and error handling.
 
+## Architecture
+![WhatsApp Image 2024-10-25 at 16 35 50_f753be7d](https://github.com/user-attachments/assets/a2d33d96-cc62-403b-a8ac-117b3bb0924a)
+
 ## Requirements
 
 **To set up and run this project, ensure you have the following libraries installed:**
